@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Gaming Platform">
+
+<test name="WordWall Site">
+
+<classes>
+
+
+<class name="MavenTestNG.SigninDataGW"></class>
+<class name="MavenTestNG.LoginDataGW"></class>
+<class name="MavenTestNG.NaviPathGW"></class>
+
+</classes>
+
+
+</test>
+
+</suite>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-07T15:09:20 IST" name="Gaming Platform" finished-at="2022-04-07T15:13:13 IST" duration-ms="233639">
+    <groups>
+    </groups>
+    <test started-at="2022-04-07T15:09:20 IST" name="WordWall Site" finished-at="2022-04-07T15:13:13 IST" duration-ms="233639">
+      <class name="MavenTestNG.LoginDataGW">
+        <test-method is-config="true" signature="setup()[pri:0, instance:MavenTestNG.LoginDataGW@1a942c18]" started-at="2022-04-07T15:11:07 IST" name="setup" finished-at="2022-04-07T15:11:15 IST" duration-ms="8085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Logintest()[pri:1, instance:MavenTestNG.LoginDataGW@1a942c18]" started-at="2022-04-07T15:11:15 IST" name="Logintest" finished-at="2022-04-07T15:11:25 IST" duration-ms="10042" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logintest -->
+        <test-method is-config="true" signature="tearDowv()[pri:0, instance:MavenTestNG.LoginDataGW@1a942c18]" started-at="2022-04-07T15:11:25 IST" name="tearDowv" finished-at="2022-04-07T15:11:26 IST" duration-ms="1356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDowv -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:MavenTestNG.LoginDataGW@1a942c18]" started-at="2022-04-07T15:11:26 IST" name="setup" finished-at="2022-04-07T15:11:34 IST" duration-ms="7910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Logintest1()[pri:2, instance:MavenTestNG.LoginDataGW@1a942c18]" started-at="2022-04-07T15:11:34 IST" name="Logintest1" finished-at="2022-04-07T15:11:43 IST" duration-ms="9489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logintest1 -->
+        <test-method is-config="true" signature="tearDowv()[pri:0, instance:MavenTestNG.LoginDataGW@1a942c18]" started-at="2022-04-07T15:11:43 IST" name="tearDowv" finished-at="2022-04-07T15:11:44 IST" duration-ms="609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDowv -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:MavenTestNG.LoginDataGW@1a942c18]" started-at="2022-04-07T15:11:44 IST" name="setup" finished-at="2022-04-07T15:11:51 IST" duration-ms="7083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Logintest2()[pri:3, instance:MavenTestNG.LoginDataGW@1a942c18]" started-at="2022-04-07T15:11:51 IST" name="Logintest2" finished-at="2022-04-07T15:12:02 IST" duration-ms="10791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logintest2 -->
+        <test-method is-config="true" signature="tearDowv()[pri:0, instance:MavenTestNG.LoginDataGW@1a942c18]" started-at="2022-04-07T15:12:02 IST" name="tearDowv" finished-at="2022-04-07T15:12:03 IST" duration-ms="608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDowv -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:MavenTestNG.LoginDataGW@1a942c18]" started-at="2022-04-07T15:12:03 IST" name="setup" finished-at="2022-04-07T15:12:10 IST" duration-ms="7555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Logintest3()[pri:4, instance:MavenTestNG.LoginDataGW@1a942c18]" started-at="2022-04-07T15:12:10 IST" name="Logintest3" finished-at="2022-04-07T15:12:19 IST" duration-ms="8487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logintest3 -->
+        <test-method is-config="true" signature="tearDowv()[pri:0, instance:MavenTestNG.LoginDataGW@1a942c18]" started-at="2022-04-07T15:12:19 IST" name="tearDowv" finished-at="2022-04-07T15:12:20 IST" duration-ms="936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDowv -->
+      </class> <!-- MavenTestNG.LoginDataGW -->
+      <class name="MavenTestNG.NaviPathGW">
+        <test-method is-config="true" signature="setup()[pri:0, instance:MavenTestNG.NaviPathGW@55a147cc]" started-at="2022-04-07T15:12:20 IST" name="setup" finished-at="2022-04-07T15:12:27 IST" duration-ms="7013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Navipage()[pri:1, instance:MavenTestNG.NaviPathGW@55a147cc]" started-at="2022-04-07T15:12:27 IST" name="Navipage" finished-at="2022-04-07T15:12:47 IST" duration-ms="20593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Navipage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MavenTestNG.NaviPathGW@55a147cc]" started-at="2022-04-07T15:12:47 IST" name="tearDown" finished-at="2022-04-07T15:12:48 IST" duration-ms="477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:MavenTestNG.NaviPathGW@55a147cc]" started-at="2022-04-07T15:12:48 IST" name="setup" finished-at="2022-04-07T15:12:57 IST" duration-ms="9071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Navipriceplan()[pri:2, instance:MavenTestNG.NaviPathGW@55a147cc]" started-at="2022-04-07T15:12:57 IST" name="Navipriceplan" finished-at="2022-04-07T15:13:00 IST" duration-ms="3653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Navipriceplan -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MavenTestNG.NaviPathGW@55a147cc]" started-at="2022-04-07T15:13:00 IST" name="tearDown" finished-at="2022-04-07T15:13:01 IST" duration-ms="581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:MavenTestNG.NaviPathGW@55a147cc]" started-at="2022-04-07T15:13:01 IST" name="setup" finished-at="2022-04-07T15:13:09 IST" duration-ms="7726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="NaviHome()[pri:3, instance:MavenTestNG.NaviPathGW@55a147cc]" started-at="2022-04-07T15:13:09 IST" name="NaviHome" finished-at="2022-04-07T15:13:12 IST" duration-ms="3518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NaviHome -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MavenTestNG.NaviPathGW@55a147cc]" started-at="2022-04-07T15:13:12 IST" name="tearDown" finished-at="2022-04-07T15:13:13 IST" duration-ms="1311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- MavenTestNG.NaviPathGW -->
+      <class name="MavenTestNG.SigninDataGW">
+        <test-method is-config="true" signature="setup()[pri:0, instance:MavenTestNG.SigninDataGW@2dc54ad4]" started-at="2022-04-07T15:09:20 IST" name="setup" finished-at="2022-04-07T15:09:32 IST" duration-ms="12430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signin()[pri:1, instance:MavenTestNG.SigninDataGW@2dc54ad4]" started-at="2022-04-07T15:09:32 IST" name="signin" finished-at="2022-04-07T15:09:45 IST" duration-ms="12191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MavenTestNG.SigninDataGW@2dc54ad4]" started-at="2022-04-07T15:09:45 IST" name="tearDown" finished-at="2022-04-07T15:09:45 IST" duration-ms="549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:MavenTestNG.SigninDataGW@2dc54ad4]" started-at="2022-04-07T15:09:45 IST" name="setup" finished-at="2022-04-07T15:09:53 IST" duration-ms="8035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signin1()[pri:2, instance:MavenTestNG.SigninDataGW@2dc54ad4]" started-at="2022-04-07T15:09:53 IST" name="signin1" finished-at="2022-04-07T15:10:04 IST" duration-ms="10940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MavenTestNG.SigninDataGW@2dc54ad4]" started-at="2022-04-07T15:10:04 IST" name="tearDown" finished-at="2022-04-07T15:10:05 IST" duration-ms="500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:MavenTestNG.SigninDataGW@2dc54ad4]" started-at="2022-04-07T15:10:05 IST" name="setup" finished-at="2022-04-07T15:10:13 IST" duration-ms="8409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signin2()[pri:3, instance:MavenTestNG.SigninDataGW@2dc54ad4]" started-at="2022-04-07T15:10:13 IST" name="signin2" finished-at="2022-04-07T15:10:24 IST" duration-ms="10795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MavenTestNG.SigninDataGW@2dc54ad4]" started-at="2022-04-07T15:10:24 IST" name="tearDown" finished-at="2022-04-07T15:10:24 IST" duration-ms="523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:MavenTestNG.SigninDataGW@2dc54ad4]" started-at="2022-04-07T15:10:24 IST" name="setup" finished-at="2022-04-07T15:10:33 IST" duration-ms="8712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signin3()[pri:4, instance:MavenTestNG.SigninDataGW@2dc54ad4]" started-at="2022-04-07T15:10:33 IST" name="signin3" finished-at="2022-04-07T15:10:44 IST" duration-ms="10892" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MavenTestNG.SigninDataGW@2dc54ad4]" started-at="2022-04-07T15:10:44 IST" name="tearDown" finished-at="2022-04-07T15:10:45 IST" duration-ms="642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:MavenTestNG.SigninDataGW@2dc54ad4]" started-at="2022-04-07T15:10:45 IST" name="setup" finished-at="2022-04-07T15:10:54 IST" duration-ms="9735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signin4()[pri:5, instance:MavenTestNG.SigninDataGW@2dc54ad4]" started-at="2022-04-07T15:10:54 IST" name="signin4" finished-at="2022-04-07T15:11:05 IST" duration-ms="10978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin4 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MavenTestNG.SigninDataGW@2dc54ad4]" started-at="2022-04-07T15:11:05 IST" name="tearDown" finished-at="2022-04-07T15:11:07 IST" duration-ms="1282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- MavenTestNG.SigninDataGW -->
+    </test> <!-- WordWall Site -->
+  </suite> <!-- Gaming Platform -->
+</testng-results>
